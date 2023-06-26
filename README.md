@@ -15,8 +15,8 @@ Build all neccessary pages for production
 ```
 $ npm run build
 ```
-If you don't have serve npm please ensure you just install it.
-if you dont's have it please run this command.
+If you don't have serve npm please ensure you just installed it.
+if you didn't have it please run this command.
 ```
 $ npm i -g serve
 ```
