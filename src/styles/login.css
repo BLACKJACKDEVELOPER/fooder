@@ -1,0 +1,67 @@
+
+.register {
+    border: 0.5px solid #000;
+    max-width: 40%;
+    margin: auto;
+    padding: 1%;
+    margin-top: 5%;
+    border-radius: 10px; 
+}
+.register h1 {
+    font-size: 40px;
+}
+.register input {
+    height:50px;
+    border-radius: 10px;
+    max-width: 93%;
+    margin: 2%;
+    font-size: 20px;
+}
+.inputGP {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Policy {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+}
+.Policy > h3 {
+    margin-left: 1%;
+}
+.PolicyInfo {
+    color: #165DFF;
+}
+.btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+.btn {
+    padding: 1% 5% 1% 5%;
+    box-shadow: 0px 3px 5px gray;
+    margin-left: 2%;
+}
+.AlreadyAccount {
+    color:#636363;
+    max-width: 35%;
+    margin: auto;
+    margin-top: 1.5%;
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #000;
+}
+.AlreadyAccount  span {
+    color: #165DFF;
+}
+.crossplatform {
+    max-width: 50%;
+    margin-top: 1.5%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
